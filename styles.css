@@ -1,0 +1,10 @@
+body { background: Cornsilk;
+       color: CornflowerBlue;
+       font-size: 14pt; }
+body { font-family: 'Reem Kufi', sans-serif; }
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: navy }
+h2 { font-size: 150%;
+	color: Dodgerblue }
+h2 { border-left: 10px solid orange }
